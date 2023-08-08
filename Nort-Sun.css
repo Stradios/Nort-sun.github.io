@@ -1,0 +1,221 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://assets.nicepagecdn.com/88d2a170/5512372/images/wallpaper.jpg');
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 929px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 929px;
+  min-height: 454px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: 256px auto 60px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  width: 77px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: MinecraftTenE;
+  font-size: 3rem;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  font-weight: 300;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 3rem;
+  font-family: DALEK___;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  font-weight: 400;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 400;
+  font-size: 3rem;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: 0 auto;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 766px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 587px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 720px;
+    min-height: 474px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 10px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 790px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 395px;
+    margin-bottom: 0;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 944px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 628px;
+    margin-top: 316px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}{
+	"online": true,
+	"ip": "217.27.175.2",
+	"port": 19132,
+	"hostname": "Nort-Sun-creativ", //Only included when a hostname is detected
+	"debug": { //See section below for information about the values
+		"ping": true,
+		"query": true,
+		"srv": true,
+		"querymismatch": false,
+		"ipinsrv": false,
+		"cnameinsrv": false,
+		"animatedmotd": false,
+		"cachehit": true,
+		"cachetime": 1518553220,
+		"cacheexpire": 1518553280,
+		"apiversion": 2
+	},
+	"version": "1.12", //Could include multiple versions or additional text
+	"protocol": 332, //Only included when ping is used, see more here: http://wiki.vg/Protocol_version_numbers
+	"icon": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEU...dSk6AAAAAElFTkSuQmCC", //Only included when an icon is detected
+	"software": "BungeeCord", //Only included when software is detected
+	"map": "MyMcWorld",
+	"gamemode": "Survival", //Only included for Bedrock servers
+	"serverid": "2438134582716697305", //Only included for Bedrock servers
+	"eula_blocked": false, //Only included for Java servers
+	"motd": {
+		"raw": [
+			"\u00a7cEver\u00a7r\u00a79PvP \u00a7r\u00a77- \u00a7r\u00a72\u00c9n server, for alle",
+			"\u00a7r\u00a7fSe dine stats p\u00e5 \u00a7r\u00a76stats.everpvp.dk\u00a7r"
+		],
+		"clean": [
+			"EverPvP - \u00c9n server, for alle",
+			"Se dine stats p\u00e5 stats.everpvp.dk"
+		],
+		"html": [
+			"EverPvP - \u00c9n server, for alle",
+			"Se dine stats p\u00e5 stats.everpvp.dk"
+		]
+	},
+	"players": {
+		"online": 2,
+		"max": 100,
+		"list": [ //Only included when there are any players
+			"Spirit55555",
+			"sarsum33"
+		],
+		"uuid": { //Only included when ping is used and players are returned (may not contain all players)
+			"Spirit55555": "f6792ad3-cbb4-4596-8296-749ee4158f97",
+			"sarsum33": "d3512599-d4d9-4520-808f-a81f4cdfe8d0"
+		}
+	},
+	"plugins": { //Only included when plugins are detected
+		"names": [
+			"WordEdit",
+			"WorldGuard"
+		],
+		"raw": [
+			"WordEdit 6.1.5",
+			"WorldGuard 6.2"
+		]
+	},
+	"mods": { //Only included when mods are detected
+		"names": [
+			"BiomesOPlenty",
+			"MoreFurnaces"
+		],
+		"raw": [
+			"BiomesOPlenty 2.1.0",
+			"MoreFurnaces 1.3.9"
+		]
+	},
+	"info": { //Only included when detecting that the player samples are used for information
+		"raw": [
+			"\u00a77\u00bb \u00a7cKitPvP \u00a77:: \u00a7f1 \u00a77online",
+			"\u00a77\u00bb \u00a7bSurvivalGames \u00a77:: \u00a7f0 \u00a77online"
+		],
+		"clean": [
+			"\u00bb KitPvP :: 1 online",
+			"\u00bb SurvivalGames :: 0 online"
+		],
+		"html": [
+			"\u00bb KitPvP :: 1 online",
+			"\u00bb SurvivalGames :: 0 online"
+		]
+	}
+}@font-face {
+  font-family: 'MinecraftTenE';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/MinecraftTenE.ttf);
+}@font-face {
+  font-family: 'DALEK___';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/DALEK___.ttf);
+}
