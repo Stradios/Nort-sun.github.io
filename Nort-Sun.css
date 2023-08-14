@@ -1,9 +1,9 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://assets.nicepagecdn.com/88d2a170/5512372/images/wallpaper.jpg');
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('images/wallpaper.jpg');
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 929px;
+  min-height: 1471px;
 }
 
 .u-section-1 .u-group-1 {
@@ -14,7 +14,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
-  margin: 256px auto 60px;
+  margin: 256px auto 0;
 }
 
 .u-section-1 .u-text-1 {
@@ -69,7 +69,7 @@
   }
 
   .u-section-1 .u-sheet-1 {
-    min-height: 766px;
+    min-height: 1213px;
   }
 
   .u-section-1 .u-text-2 {
@@ -79,7 +79,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 587px;
+    min-height: 929px;
   }
 
   .u-section-1 .u-group-1 {
@@ -103,7 +103,6 @@
 
   .u-section-1 .u-group-1 {
     margin-top: 395px;
-    margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
     width: auto;
