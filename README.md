@@ -1,4 +1,5 @@
 # Nort-Sun Valheim Server
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M8K423K344)
 
 Welcome to **Nort-Sun**, a non-PvP vanilla survival Valheim server, offering compatibility with both **Steam** and **Xbox** players. We aim to provide a pure, collaborative gaming experience with no additional mods. Players can enjoy cross-platform play, building, and adventuring in a relaxed, community-driven environment.
 
